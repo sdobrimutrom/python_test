@@ -1,7 +1,7 @@
 # python_test
 MMVS Python Test
 
-Python backend developer test. Необходимо сделать API для сервиса хранения видеофайлов с возможностью менять разрешение. В качестве фреймворка использовать Django или Django Rest (на Ваше усмотрение). Конвертация должна происходить с помощью ffmpeg (В качестве обертки нужно использовать https://github.com/bramp/ffmpeg-cli-wrapper).
+Python backend developer test. Необходимо сделать API для сервиса хранения видеофайлов с возможностью менять разрешение. В качестве фреймворка использовать Django или Django Rest (на Ваше усмотрение). Конвертация должна происходить с помощью ffmpeg (В качестве обертки нужно использовать https://github.com/kkroening/ffmpeg-python).
 
 ## HTTP API
 
