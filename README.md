@@ -52,7 +52,7 @@ Python backend developer test. Необходимо сделать API для с
   processingSuccess: null | true | false  - отображает успешность последней операции над видео. Дефолтное значение null.
 }
 ```
-Код ответа: `200 Ok`.ы
+Код ответа: `200 Ok`.
 
 
 #### `DELETE /file/{id}/`
